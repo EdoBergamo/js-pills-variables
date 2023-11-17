@@ -9,3 +9,11 @@ console.log(PI);
 let radius = 8;
 let circle = radius * 2 * PI;
 console.log(circle);
+
+/*
+ * 'name' è deprecato
+ * use personName to avoid this warning
+*/
+let name = "Carlo";
+name = "Marco";
+console.log(name);

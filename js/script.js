@@ -12,8 +12,11 @@ console.log(circle);
 
 /*
  * 'name' è deprecato
- * use personName to avoid this warning
+ * use nome to avoid this warning
 */
 let name = "Carlo";
 name = "Marco";
 console.log(name);
+
+let greet = "Ciao, Mondo!"
+console.log(greet)

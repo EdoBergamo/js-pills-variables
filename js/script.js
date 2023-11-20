@@ -20,3 +20,8 @@ console.log(name);
 
 let greet = "Ciao, Mondo!"
 console.log(greet)
+
+/* Non è possibile dichiarare di nuovo la variabile con ambito blocco 'greet'
+* let greet = "Come stai, Mondo?"
+* console.log(greet)
+*/

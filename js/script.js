@@ -18,10 +18,18 @@ let name = "Carlo";
 name = "Marco";
 console.log(name);
 
-let greet = "Ciao, Mondo!"
-console.log(greet)
+let greet = "Ciao, Mondo!";
+console.log(greet);
 
 /* Non è possibile dichiarare di nuovo la variabile con ambito blocco 'greet'
 * let greet = "Come stai, Mondo?"
 * console.log(greet)
 */
+
+// First Method - Concatenazione
+// greet += " Come stai?"
+// console.log(greet)
+
+// Second Method - Template Literal
+greet = `${greet} Come stai?`;
+console.log(greet);

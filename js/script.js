@@ -46,3 +46,15 @@ if (num1 > num2) {
 }
 
 console.log(comparison);
+
+let stringa1 = "Hello";
+let stringa2 = "Hello";
+
+if (stringa1 == stringa2) {
+    comparison = true
+} else {
+    comparison = false
+}
+
+// Stampare il risultato del confronto sulla console
+console.log(comparison);

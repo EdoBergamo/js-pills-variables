@@ -33,3 +33,16 @@ console.log(greet);
 // Second Method - Template Literal
 greet = `${greet} Come stai?`;
 console.log(greet);
+
+let num1 = 56, num2 = 347;
+let comparison;
+
+// let comparison = num1 > num2 ? num1 : num2;
+
+if (num1 > num2) {
+    comparison = num1;   
+} else {
+    comparison = num2;
+}
+
+console.log(comparison);

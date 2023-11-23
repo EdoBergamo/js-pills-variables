@@ -31,3 +31,6 @@ Crea una variabile `comparison` e assegnale il risultato del confronto tra due n
 
 **Esercizio 5/B**
 Assegna alla variabile `comparison` il risultato del confronto tra due stringhe per verificare se le due stringhe sono uguali. Stampa sulla console il valore di `comparison`
+
+**Esercizio 5/C**
+Assegna alla variabile `comparison` il risultato del confronto tra un numero e una stringa (che rappresenta un numero) per verificare se sono uguali. Stampa sulla console il valore di `comparison`

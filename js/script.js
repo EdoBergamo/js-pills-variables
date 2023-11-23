@@ -58,3 +58,12 @@ if (stringa1 == stringa2) {
 
 // Stampare il risultato del confronto sulla console
 console.log(comparison);
+
+let num = 5
+comparison = false;
+
+if (num == '10') {
+    comparison = true;
+}
+
+console.log(comparison)

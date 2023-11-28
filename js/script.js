@@ -80,4 +80,17 @@ const numbers = [1, 2, 3, 4, 5, 6, 7, 8];
 console.log(numbers)
 
 const fruits = ["mela", "banana", "pesca", "pera", "albicocca", "mango", "kiwi", "papaya"]
-console.log(fruits)
+console.log(fruits.length)
+
+let numFib = parseInt(prompt('Quanti numeri...'))
+let a = 0, b = 1, c;
+
+c = a + b;
+
+while (c <= numFib) {
+    console.log(c);
+
+    a = b;
+    b = c
+    c = a + b
+}

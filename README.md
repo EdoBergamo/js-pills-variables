@@ -49,3 +49,9 @@ Definisci un array contenente le stringhe che seguono e memorizzalo nella costan
 ```
 mela, banana, pesca, pera, albicocca, mango, kiwi, papaya
 ```
+
+**Esercizio 7/C**  
+Stampa in console il numero di elementi che costituiscono l'array `fruits`
+
+**Fibonacci Sequence**
+Stampa la sequenza di Fibonacci usando while o do while

@@ -98,3 +98,5 @@ while (c <= numFib) {
 function helloWorld () {
     alert("Hello world");
 }
+
+helloWorld();

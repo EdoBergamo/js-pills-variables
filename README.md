@@ -59,3 +59,5 @@ Stampa la sequenza di Fibonacci usando while o do while
 **Esercizio 8/A**
 Definire una funzione che stampi la stringa 'Ciao Mondo'
  
+**Esercizio 8/B**
+Richiamare la funzione definita prima

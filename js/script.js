@@ -100,3 +100,7 @@ function helloWorld () {
 }
 
 helloWorld();
+
+function somma(a, b) {
+    return a + b;
+}

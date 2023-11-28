@@ -55,3 +55,7 @@ Stampa in console il numero di elementi che costituiscono l'array `fruits`
 
 **Fibonacci Sequence**
 Stampa la sequenza di Fibonacci usando while o do while
+
+**Esercizio 8/A**
+Definire una funzione che stampi la stringa 'Ciao Mondo'
+ 

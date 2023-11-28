@@ -104,3 +104,6 @@ helloWorld();
 function somma(a, b) {
     return a + b;
 }
+
+let risultato = somma(10, 20);
+console.log(risultato);

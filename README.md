@@ -64,3 +64,6 @@ Richiamare la funzione definita prima
 
 **Esercizio 9/A**
 Definire una funzione che accetti due numeri in input e ne faccia la somma
+
+**Esercizio 10/A**
+Chiamare la funzione che esegue la somma, assegnare il valore che restituisce ad una variabile e mostrare il risultato

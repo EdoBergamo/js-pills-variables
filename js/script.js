@@ -111,3 +111,5 @@ console.log(risultato);
 function getOneStringFromTwo(str1, str2) {
     return `${str1} ${str2}`
 }
+
+console.log(getOneStringFromTwo("first", "second"))

@@ -107,3 +107,7 @@ function somma(a, b) {
 
 let risultato = somma(10, 20);
 console.log(risultato);
+
+function getOneStringFromTwo(str1, str2) {
+    return `${str1} ${str2}`
+}
